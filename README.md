@@ -24,7 +24,7 @@ Self-Driving Car Engineer Nanodegree Program
     git checkout e94b6e1
     ```
     Some function signatures have changed in v0.14.x. See [this PR](https://github.com/udacity/CarND-MPC-Project/pull/3) for more details.
-* Simulator. You can download these from the [project intro page](https://github.com/udacity/self-driving-car-sim/releases) in the classroom.
+* Simulator. You can get it [here](https://github.com/udacity/self-driving-car-sim/releases).
 
 There's an experimental patch for windows in this [PR](https://github.com/udacity/CarND-PID-Control-Project/pull/3)
 
